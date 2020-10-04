@@ -1,0 +1,5 @@
+ordenador:andrea:200
+calculadora:pablo:12
+silla de madera:noelia:30
+television:noelia:500
+consola:noelia:100
